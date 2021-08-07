@@ -1,0 +1,10 @@
+Manifest-Version: 1.0
+Implementation-Title: Spring_Invoice_Service
+Implementation-Version: 0.0.1-SNAPSHOT
+Built-By: ramidi.sowmya
+Implementation-Vendor-Id: Spring_Invoice_Service
+Build-Jdk: 1.8.0_181
+Implementation-URL: https://projects.spring.io/spring-boot/#/spring-bo
+ ot-starter-parent/Spring_Invoice_Service
+Created-By: Maven Integration for Eclipse
+

@@ -1,0 +1,7 @@
+com\invoice\model\Product.class
+com\invoice\exception\InvoiceException.class
+com\invoice\repository\InvoiceRepository.class
+com\invoice\model\Order.class
+com\invoice\InvoiceServiceApplication.class
+com\invoice\model\Invoice.class
+com\invoice\controller\InvoiceController.class
